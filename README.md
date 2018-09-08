@@ -1,4 +1,4 @@
-# Gazprom Neft SmartOil Contest
+# Gazprom Neft SmartOil
 
 (в процессе)
 
