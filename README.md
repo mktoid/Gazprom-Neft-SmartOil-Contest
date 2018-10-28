@@ -1,6 +1,10 @@
 # Gazprom Neft SmartOil
 
-(в процессе)
+Competition in artificail intellegence for predictive analytics in oil industry
+
+Sorry folks,
+I won the competition http://www.gazprom-neft.ru/press-center/news/1936058/
+and now under the legal agreement that prevents me from publishing the solution :(
 
 ### Задача №1
 Предсказать стартовый (в течение первых 6 месяцев работы скважины) дебит нефти. 
