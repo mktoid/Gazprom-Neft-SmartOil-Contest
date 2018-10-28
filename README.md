@@ -1,6 +1,6 @@
 # Gazprom Neft SmartOil
 
-Competition in artificail intellegence for predictive analytics in oil industry
+Competition in artificail intellegence for predictive analytics in the petroleum industry
 
 Sorry folks,
 I won the competition http://www.gazprom-neft.ru/press-center/news/1936058/
